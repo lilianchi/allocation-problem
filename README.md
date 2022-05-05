@@ -21,8 +21,8 @@ Python
 * Li-Ci Chuang
 
 ### Packages Used
-import gurobipy as gp
-from gurobipy import Model, GRB
-import pandas as pd
-from collections import OrderedDict
-import matplotlib.pyplot as plt
+* import gurobipy as gp
+* from gurobipy import Model, GRB
+* import pandas as pd
+* from collections import OrderedDict
+* import matplotlib.pyplot as plt
